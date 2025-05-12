@@ -10,3 +10,11 @@ Este repositório é dedicado à centralização de toda a documentação relaci
 [Mozilla - Node e Express](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction)
 
 [The Odin Project - Node e Express](https://www.theodinproject.com/lessons/nodejs-getting-started)
+
+[O que é NoSQL](https://cursos.alura.com.br/extra/alura-mais/o-que-e-nosql--c1142)
+
+[Métodos de requisição HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods)
+
+[Express JS](https://expressjs.com/)
+
+[Tipos de licenças ](https://spdx.org/licenses/)
