@@ -5,3 +5,7 @@ Este repositório é dedicado à centralização de toda a documentação relaci
 
 ## Links: 
 [Planejamento ](https://docs.google.com/document/d/15geY_IHGuI_kUE2HMbApIpFcfOm9KtTybC98m8Fkg0c/edit?tab=t.0)
+
+## Estudo Tecnologias:
+[Mozilla - Node e Express](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction)
+[The Odin Project - Node e Express](https://www.theodinproject.com/lessons/nodejs-getting-started)
