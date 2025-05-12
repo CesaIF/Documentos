@@ -8,4 +8,5 @@ Este repositório é dedicado à centralização de toda a documentação relaci
 
 ## Estudo Tecnologias:
 [Mozilla - Node e Express](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction)
+
 [The Odin Project - Node e Express](https://www.theodinproject.com/lessons/nodejs-getting-started)
