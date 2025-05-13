@@ -20,3 +20,5 @@ Este repositório é dedicado à centralização de toda a documentação relaci
 [Tipos de licenças ](https://spdx.org/licenses/)
 
 [Docker](https://docs.docker.com/)
+
+[Registro de Dominio](https://www.hostgator.com.br/blog/tudo-o-que-voce-precisa-saber-sobre-registro-de-dominio/?gad_source=5&gad_campaignid=22134387764&gclid=EAIaIQobChMI0Ij676mhjQMV2IVaBR2MYxwkEAAYAiAAEgI97_D_BwE)
