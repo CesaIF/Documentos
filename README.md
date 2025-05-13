@@ -18,3 +18,5 @@ Este repositório é dedicado à centralização de toda a documentação relaci
 [Express JS](https://expressjs.com/)
 
 [Tipos de licenças ](https://spdx.org/licenses/)
+
+[Docker](https://docs.docker.com/)
